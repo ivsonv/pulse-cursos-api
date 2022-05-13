@@ -1,0 +1,21 @@
+﻿#### MIGRTIONS ####
+LINE COMMAND
+
+1 - docker run -p 5432:5432 --name postgres_db -e POSTGRES_PASSWORD=DerIvs#452 -d postgres
+2 - cd ./Admin.Infra/
+3 - dotnet ef migrations add initials --startup-project ../Admin.Api/
+4 - dotnet ef database update --startup-project ../Admin.Api/
+
+### VSCODE/command-line UBUNTU (20.04 ATUAL)/WINDOWS ###
+dotnet run --project Admin.Api
+   OU
+cd Admin.Api
+dotnet run
+
+0 - dotnet add package Microsoft.EntityFrameworkCore.Tools --version 6.0.1 (CASO NAO TENHA)
+1 - dotnet tool install --global dotnet-ef (CASO NAO TENHA)
+2 - dotnet restore
+
+    cd ./Admin.Infra/
+3 - dotnet ef migrations add initials --startup-project ../Admin.Api/
+4 - dotnet ef database update --startup-project ../Admin.Api/

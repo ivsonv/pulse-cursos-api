@@ -1,0 +1,319 @@
+{
+   "businessAreas":[
+      {
+         "code":1000,
+         "activity":"Produtos",
+         "category":"Acessorios automotivos"
+      },
+      {
+         "code":1001,
+         "activity":"Produtos",
+         "category":"Agronomia e agricultura"
+      },
+      {
+         "code":1002,
+         "activity":"Produtos",
+         "category":"Agropecuária e venda de animais"
+      },
+      {
+         "code":1003,
+         "activity":"Produtos",
+         "category":"Alimentos e Bebidas"
+      },
+      {
+         "code":1004,
+         "activity":"Produtos",
+         "category":"Antiguidades e colecionaveis"
+      },
+      {
+         "code":1005,
+         "activity":"Produtos",
+         "category":"Arte e artesanato"
+      },
+      {
+         "code":1006,
+         "activity":"Produtos",
+         "category":"Artigos religiosos"
+      },
+      {
+         "code":1007,
+         "activity":"Produtos",
+         "category":"Beleza e cuidados pessoais"
+      },
+      {
+         "code":1008,
+         "activity":"Produtos",
+         "category":"Brinquedos e Jogos"
+      },
+      {
+         "code":1009,
+         "activity":"Produtos",
+         "category":"Construção civil e alvenaria"
+      },
+      {
+         "code":1010,
+         "activity":"Produtos",
+         "category":"Eletrodomesticos"
+      },
+      {
+         "code":1011,
+         "activity":"Produtos",
+         "category":"Esporte e lazer"
+      },
+      {
+         "code":1012,
+         "activity":"Produtos",
+         "category":"Gestante e bebê"
+      },
+      {
+         "code":1013,
+         "activity":"Produtos",
+         "category":"Joias e relojoaria"
+      },
+      {
+         "code":1014,
+         "activity":"Produtos",
+         "category":"Livros, apostilas, Cds e DVDs"
+      },
+      {
+         "code":1015,
+         "activity":"Produtos",
+         "category":"Maquinário industrial"
+      },
+      {
+         "code":1016,
+         "activity":"Produtos",
+         "category":"Material de limpeza"
+      },
+      {
+         "code":1017,
+         "activity":"Produtos",
+         "category":"Moda e vestuário"
+      },
+      {
+         "code":1018,
+         "activity":"Produtos",
+         "category":"Móveis e decoração"
+      },
+      {
+         "code":1019,
+         "activity":"Produtos",
+         "category":"Instrumentos musicais e equipamentos sonoros"
+      },
+      {
+         "code":1020,
+         "activity":"Produtos",
+         "category":"Papelaria e escritório"
+      },
+      {
+         "code":1021,
+         "activity":"Produtos",
+         "category":"Pet Shop"
+      },
+      {
+         "code":1022,
+         "activity":"Produtos",
+         "category":"Saúde e suplementos"
+      },
+      {
+         "code":1023,
+         "activity":"Produtos",
+         "category":"Sex Shop e artigos adultos"
+      },
+      {
+         "code":1024,
+         "activity":"Produtos",
+         "category":"Tecnologia, eletronicos e informatica"
+      },
+      {
+         "code":1025,
+         "activity":"Produtos",
+         "category":"Utensílios e objetos em geral"
+      },
+      {
+         "code":1026,
+         "activity":"Produtos",
+         "category":"Outros"
+      },
+      {
+         "code":1027,
+         "activity":"Produtos",
+         "category":"Drop Shipping"
+      },
+      {
+         "code":2000,
+         "activity":"Serviços",
+         "category":"Academia e esportes"
+      },
+      {
+         "code":2001,
+         "activity":"Serviços",
+         "category":"Advocacia"
+      },
+      {
+         "code":2002,
+         "activity":"Serviços",
+         "category":"Agronomia e agricultura"
+      },
+      {
+         "code":2003,
+         "activity":"Serviços",
+         "category":"Aluguel e condominio"
+      },
+      {
+         "code":2004,
+         "activity":"Serviços",
+         "category":"Clube de descontos e benefícios"
+      },
+      {
+         "code":2005,
+         "activity":"Serviços",
+         "category":"Veterinária e pet shop"
+      },
+      {
+         "code":2006,
+         "activity":"Serviços",
+         "category":"Arquitetura e decoração"
+      },
+      {
+         "code":2007,
+         "activity":"Serviços",
+         "category":"Assistencia tecnica"
+      },
+      {
+         "code":2008,
+         "activity":"Serviços",
+         "category":"Aulas Particulares"
+      },
+      {
+         "code":2009,
+         "activity":"Serviços",
+         "category":"Jardim e Botânica"
+      },
+      {
+         "code":2010,
+         "activity":"Serviços",
+         "category":"Cobranças e Dividas"
+      },
+      {
+         "code":2011,
+         "activity":"Serviços",
+         "category":"Construção civil e alvenaria"
+      },
+      {
+         "code":2012,
+         "activity":"Serviços",
+         "category":"Consultoria"
+      },
+      {
+         "code":2013,
+         "activity":"Serviços",
+         "category":"Contabilidade"
+      },
+      {
+         "code":2014,
+         "activity":"Serviços",
+         "category":"Cursos e treinamentos"
+      },
+      {
+         "code":2015,
+         "activity":"Serviços",
+         "category":"Desenvolvimento de sites aplicativos e afins"
+      },
+      {
+         "code":2016,
+         "activity":"Serviços",
+         "category":"Eventos, festas e entretenimento"
+      },
+      {
+         "code":2017,
+         "activity":"Serviços",
+         "category":"Hidráulica e elétrica"
+      },
+      {
+         "code":2018,
+         "activity":"Serviços",
+         "category":"Instituições de ensino"
+      },
+      {
+         "code":2019,
+         "activity":"Serviços",
+         "category":"Internet, hospedagem e dominio"
+      },
+      {
+         "code":2020,
+         "activity":"Serviços",
+         "category":"Limpeza e manutenção"
+      },
+      {
+         "code":2021,
+         "activity":"Serviços",
+         "category":"Manutençao de veículos"
+      },
+      {
+         "code":2022,
+         "activity":"Serviços",
+         "category":"Design, Marketing, fotografia e audiovisual"
+      },
+      {
+         "code":2023,
+         "activity":"Serviços",
+         "category":"Profissionais da saúde"
+      },
+      {
+         "code":2024,
+         "activity":"Serviços",
+         "category":"Representação comercial"
+      },
+      {
+         "code":2025,
+         "activity":"Serviços",
+         "category":"Registro de marcas e patentes"
+      },
+      {
+         "code":2026,
+         "activity":"Serviços",
+         "category":"Saúde e Beleza"
+      },
+      {
+         "code":2027,
+         "activity":"Serviços",
+         "category":"Segurança e sistema de controle"
+      },
+      {
+         "code":2028,
+         "activity":"Serviços",
+         "category":"Seguros, Planos e corretagem"
+      },
+      {
+         "code":2029,
+         "activity":"Serviços",
+         "category":"Serralheria e vidraçaria"
+      },
+      {
+         "code":2030,
+         "activity":"Serviços",
+         "category":"Transporte e logística"
+      },
+      {
+         "code":2031,
+         "activity":"Serviços",
+         "category":"Turismo e viagens"
+      },
+      {
+         "code":2032,
+         "activity":"Serviços",
+         "category":"TVs e sinais de antena"
+      },
+      {
+         "code":2033,
+         "activity":"Serviços",
+         "category":"Outros"
+      },
+      {
+         "code":3000,
+         "activity":"ONGs, Associações e Afins",
+         "category":"ONGs, Associações e Afins"
+      }
+   ]
+}
